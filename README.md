@@ -21,6 +21,8 @@ This is a passion project and a hobbyist OS. It writes raw data to ATA ports. Ru
 ## How to Run
 Get this - you don't need to compile it! I've made a .bat file to make it easy.
 
+**IMPORTANT: YOU NEED QEMU INSTALLED TO RUN THIS. IF YOU DO NOT HAVE QEMU, YOU WILL NOT BE ABLE TO RUN THIS.**
+
 1. Go to the **[Releases](../../)** tab and download the latest .zip file.
 2. Extract the folder to your desktop.
 3. Double-click `Run_VIBEDOS.bat`.
